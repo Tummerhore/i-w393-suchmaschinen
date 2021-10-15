@@ -4,7 +4,7 @@ Ein minimales Beispiel für ein Suchapplikation-Frontend mit Vue.js.
 
 Die Website besteht aus einer Suchleiste, deren Eingabe nach Bestätigung an ein Backend gesandt wird. Als Ergebnis wird ein JSON-Array erwartet, dessen Objekte dann aufgelistet werden.
 
-![Screenshot](/assets/screenshot.png)
+![Screenshot](assets/screenshot.png)
 
 ## Abhängigkeiten installieren
 
