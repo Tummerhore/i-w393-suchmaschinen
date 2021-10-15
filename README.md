@@ -6,7 +6,7 @@ Technologien verweden.
 
 ## Frontend
 
-Das Frontend ist in Vue.js geschrieben. Eine genauere Beschreibung findet sich in [frontend/Readme.md](frontend/README.md).
+Das Frontend ist in Vue.js geschrieben. Eine genauere Beschreibung findet sich in [frontend/README.md](frontend/README.md).
 
 ## Backend 
 
