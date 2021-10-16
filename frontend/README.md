@@ -41,4 +41,4 @@ Die Seite hat noch deutlich Verbesserungspotential. Hier ein paar Ideen, die Sie
 - Anzeige eines alternativen Suchbegriffs, der vom Backend vorgeschlagen wird (wie bei Google-Suche "Meinten Sie: ...")
 - Fehlerbehandlung, wenn das Backend nicht erreicht werden kann.
 - Anzeige eines Dropdown mit möglichen Vervollständigungen des Suchbegriffs
-- Pagination der Suchergebnisse: Die Liste der Suchergebnisse kann sehr lang werden und ist dann umständlich zu bedienen: Besser wäre dann eine Aufteilung auf mehrere Seiten.
+- Pagination der Suchergebnisse: Die Liste der Suchergebnisse kann sehr lang werden und ist dann umständlich zu bedienen: Besser wäre dann eine Aufteilung auf mehrere Seiten. Überlegen Sie sich auch ob, es Sinn macht bei so vielen Ergebnissen alle auf einmal vom Backend zu senden, oder ob eine paged API vielleicht eine bessere Lösung darstellt.
