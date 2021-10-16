@@ -1,8 +1,8 @@
 # Beispiel-Suchapplikation
 
 Dieses Projekt dient als Beispiel für Backend und Frontend einer Suchapplikation. Natürlich müssen Sie es nicht für Ihre Projekt verwenden,
-es kann Ihnen aber etwas Arbeit am Anfang abnehmen. Falls Sie wollen, dürfen sich selbstverständlich auch andere als die hier eingesetzten 
-Technologien verweden.
+es kann Ihnen aber etwas Arbeit am Anfang abnehmen. Falls Sie wollen, dürfen Sie selbstverständlich auch andere als die hier eingesetzten 
+Technologien verwenden.
 
 ## Frontend
 
