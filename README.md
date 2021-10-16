@@ -10,8 +10,8 @@ Das Frontend ist in Vue.js geschrieben. Eine genauere Beschreibung findet sich i
 
 ## Backend 
 
-Das Backend ist in Java geschrieben. Das Beispiel gibt unabhängig von der Anfrage immer nur ein JSON-Array mit zwei Strings zurück. Ihre Aufgabe
-ist, die Anfrage des Fontends auf eine passende Anfrage an den ElasticSearch Cluster zu mappen (natürlich auch für die Antworten in die andere Richtung).
+Das Backend ist in Java geschrieben. Das Beispiel gibt unabhängig von der Anfrage immer nur ein JSON-Array mit zwei Strings zurück. Ihre Aufgabe hier
+ist, die Anfrage des Frontends auf eine passende Anfrage an den ElasticSearch Cluster zu mappen (natürlich auch für die Antworten in die andere Richtung).
 
 ### Wozu ein zwischengelagerter Backend-Server?
 
