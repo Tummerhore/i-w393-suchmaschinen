@@ -29,7 +29,7 @@ Für den Anfang wurden zwei Komponenten definiert:
 - Die Suchleiste
 - Ergebnis-Objekt, welches für jedes Suchergebnis im erhaltenen JSON-Array angezeigt wird.
 
-In `src/App.vue` benutzen wird die zuvor definierten Komponenten und bauen daraus die Seite. Hier halten wir auch den Zustand mit dem derzeitigen Suchbegriff und den Ergbnissen.
+In `src/App.vue` benutzen wird die zuvor definierten Komponenten und bauen daraus die Seite. Hier halten wir auch den Zustand mit dem derzeitigen Suchbegriff und den Ergebnissen.
 
 ## Ideen zur Verbesserung
 
