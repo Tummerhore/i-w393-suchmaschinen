@@ -37,7 +37,7 @@ Die Seite hat noch deutlich Verbesserungspotential. Hier ein paar Ideen, die Sie
 
 - Anzeige, wenn Ergebnisse vom Backend abgerufen werden (z.B. mit der Komponente `<b-spinner>` von BootstrapVue)
 - Schönere Darstellung der Ergebnisse. (Bei Filmen könnte man z.B. auch immer das jeweilige Filmcover darstellen.)
-- Möglichkeit, die Suche mit Filtern besser einzuschränken. Am besten, sie geben neben dem eigentlich Suchwort die Filtereinstellungen dann auch an das Backend mit. Dazu muss das Backend aber damit umgehen können. Alternativ können Sie auch client-seitig die erhaltenen Ergebnisse filtern.
+- Möglichkeit, die Suche mit Filtern besser einzuschränken. Am besten, Sie geben neben dem eigentlich Suchwort die Filtereinstellungen dann auch an das Backend mit. Dazu muss das Backend aber damit umgehen können. Alternativ können Sie auch client-seitig die erhaltenen Ergebnisse filtern.
 - Anzeige eines alternativen Suchbegriffs, der vom Backend vorgeschlagen wird (wie bei Google-Suche "Meinten Sie: ...")
 - Fehlerbehandlung, wenn das Backend nicht erreicht werden kann.
 - Anzeige eines Dropdown mit möglichen Vervollständigungen des Suchbegriffs (Stichwort `type ahead`)
