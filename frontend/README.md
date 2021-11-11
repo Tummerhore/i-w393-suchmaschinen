@@ -23,7 +23,7 @@ und kann anschließend in einen S3-Bucket hochgeladen werden.
 
 ## Projektaufbau
 
-Vue.js erleichtert die Websiteentwicklung erheblich und ist ähnlich wie das sehr bekannte Framework React, aber leichter zu erlenen. Für eine Einführung, siehe https://vuejs.org/v2/guide/#Getting-Started. Neben Vue.js verwenden wir hier die Bibliothek BooststapVue, welche schon viele nützliche Komponenten zu Verfügung stellt, die Sie verwenden können (aber natürlich nicht müssen). Eine Übersicht aller zur Verfügung stehenden Komponenten findet sich hier: https://bootstrap-vue.org/docs/components. Wir verwenden im Projekt auch einige Bootstrap-CSS-Klassen.
+Vue.js erleichtert die Websiteentwicklung erheblich und ist ähnlich wie das sehr bekannte Framework React, aber leichter zu erlernen. Für eine Einführung, siehe https://vuejs.org/v2/guide/#Getting-Started. Neben Vue.js verwenden wir hier die Bibliothek BooststapVue, welche schon viele nützliche Komponenten zu Verfügung stellt, die Sie verwenden können (aber natürlich nicht müssen). Eine Übersicht aller zur Verfügung stehenden Komponenten findet sich hier: https://bootstrap-vue.org/docs/components. Wir verwenden im Projekt auch einige Bootstrap-CSS-Klassen.
 
 Für den Anfang wurden zwei Komponenten definiert:
 - Die Suchleiste
